@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class corrected {
+public class code_without_error  {
 
     public static void main(String[] args) {
 

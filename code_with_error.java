@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class code_with_error {
     static double balance = 0;
 
     public static void main(String[] args) {
