@@ -32,5 +32,3 @@ The Banking System allows users to:
 - Test_Cases: Contains Excel sheet with test cases
 - README.md: Project documentation
 
-## Author
-Sujitha M
